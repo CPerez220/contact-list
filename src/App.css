@@ -1,0 +1,13 @@
+body {
+  background-color: aqua;
+}
+
+.section div {
+  text-align: center;
+  float: left;
+}
+
+.section div h2 {
+  float: left;
+  padding: 10px;
+}
